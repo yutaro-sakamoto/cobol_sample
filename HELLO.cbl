@@ -9,5 +9,5 @@
            ACCEPT  MY-NAME.
            DISPLAY "Hello " MY-NAME.
        MAIN-EXIT.
-           STOP RUN
-           
+           STOP RUN.
+                     
